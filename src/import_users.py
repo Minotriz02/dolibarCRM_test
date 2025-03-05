@@ -101,10 +101,14 @@ def process_contact(json_contact, stats):
     # con "options_" + código_del_extrafield como clave.
     clima    = json_contact.get("clima_bulletin", False)
     forecast = json_contact.get("forecast_bulletin", False)
+    full_name= json_contact.get("name", "") + " " + json_contact.get("last_name", "")
+    city     = json_contact.get("primary_address_city", "")
     new_contact_data["array_options"] = {
         # Asegúrate de que el código del extrafield en Dolibarr sea 'clima_bulletin' y 'forecast_bulletin'
         "options_clima_bulletin":    "1" if clima else "0",
-        "options_forecast_bulletin": "1" if forecast else "0"
+        "options_forecast_bulletin": "1" if forecast else "0",
+        "options_full_name":         full_name,
+        "options_city":              city
     }
 
     # Revisamos que el email sea obligatorio para identificar al contacto

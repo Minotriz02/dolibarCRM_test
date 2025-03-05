@@ -55,7 +55,7 @@
     "phone_mobile": "+573057665223",
     "phone_mobile_withous_plus": "573057665223",
     "mail": "sebaslopezastu08@gmail.com",
-    "forecast_bulletin": true,
+    "forecast_bulletin": false,
     "clima_bulletin": true,
     "primary_address_city": "Bogotá, Colombia"
   }

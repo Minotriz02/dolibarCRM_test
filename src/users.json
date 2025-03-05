@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Carlos",
+    "last_name": "Gómez",
+    "phone_mobile": "+573001234567",
+    "phone_mobile_withous_plus": "573001234567",
+    "mail": "test1@mail.com",
+    "forecast_bulletin": true,
+    "clima_bulletin": false,
+    "primary_address_city": "Bogotá, Colombia"
+  },
+  {
+    "name": "Victor",
+    "last_name": "Rodríguez",
+    "phone_mobile": "+573176154671",
+    "phone_mobile_withous_plus": "573176154671",
+    "mail": "test2@mail.com",
+    "forecast_bulletin": false,
+    "clima_bulletin": true,
+    "primary_address_city": "Cali, Colombia"
+  },
+  {
+    "name": "Andrés",
+    "last_name": "Pérez",
+    "phone_mobile": "+573105678945",
+    "phone_mobile_withous_plus": "573105678945",
+    "mail": "test3@mail.com",
+    "forecast_bulletin": true,
+    "clima_bulletin": false,
+    "primary_address_city": "Cali, Colombia"
+  },
+  {
+    "name": "Lucía",
+    "last_name": "Ramírez",
+    "phone_mobile": "+573134567890",
+    "phone_mobile_withous_plus": "573134567890",
+    "mail": "test4@mail.com",
+    "forecast_bulletin": false,
+    "clima_bulletin": false,
+    "primary_address_city": "Barranquilla, Colombia"
+  },
+  {
+    "name": "José",
+    "last_name": "Martínez",
+    "phone_mobile": "+573004561237",
+    "phone_mobile_withous_plus": "573004561237",
+    "mail": "test5@mail.com",
+    "forecast_bulletin": true,
+    "clima_bulletin": false,
+    "primary_address_city": "Cartagena, Colombia"
+  },
+  {
+    "name": "Ana",
+    "last_name": "Lopez",
+    "phone_mobile": "+573057665223",
+    "phone_mobile_withous_plus": "573057665223",
+    "mail": "sebaslopezastu08@gmail.com",
+    "forecast_bulletin": true,
+    "clima_bulletin": true,
+    "primary_address_city": "Bogotá, Colombia"
+  }
+]

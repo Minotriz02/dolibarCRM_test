@@ -5,7 +5,7 @@ import requests
 # CONFIGURACIÓN DE DOLIBARR
 # =========================
 DOLIBARR_BASE_URL = 'http://localhost/api/index.php'      # Ajusta la URL a tu instancia
-DOLIBARR_APIKEY    = 'bbb31213408dda4daf2b7faee0a6ae03c35d7a47'  # Token real de Dolibarr
+DOLIBARR_APIKEY    = 'd494ab01f8b59047ec873b38b2688e6b44d520f9'  # Token real de Dolibarr
 
 # =========================
 # FUNCIONES AUXILIARES
